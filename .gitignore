@@ -1,0 +1,10 @@
+cpupart3.cache/
+cpupart3.hw
+cpupart3.ip_user_files/
+cpupart3.xp3/
+cpupart3.xpr
+cpupart3.sim/
+*.jou
+*.log
+!.gitignore/
+!*.vhd
